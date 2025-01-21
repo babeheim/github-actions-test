@@ -7,3 +7,7 @@ test_that("a final test", {
   expect_false(FALSE)
 })
 
+test_that("one more test", {
+  expect_false(FALSE)
+})
+
